@@ -1,0 +1,49 @@
+function c_generatecombatstack(combatants=[]) {
+	c_doallhook(hooks.precombat);
+	while combatants != [] {
+		var i;
+		for (i=0; i<=array_length(combatants)) {
+			c_dodualhook(combatants[i], preaction);
+			combatants[i].tryaction();
+			c_dodualhook(combatants[i], postaction);
+		}
+	}
+}
+
+c_recordaction
+
+function c_dodualhook(host, hook) {
+	
+}
+function c_doallhook(hook) {
+	
+}
+
+
+function tryaction() {
+	repeat(3) {
+		c_dodualhook(hooks.onstaminacheck);
+		if continuecombat() {
+			action = defaultaction;
+			c_dodualhook(hooks.prehit);
+			c_recordaction(action());
+			c_dodualhook(hooks.posthit);
+		}
+	}
+}
+
+human.continuecombat {
+	if stamina returnable = true stamina-- return true
+}
+
+action {
+	effect: function() {
+		
+	}
+	animation: new actionanim()
+	
+}
+
+function insertaction(action, interruptable) {
+	
+}

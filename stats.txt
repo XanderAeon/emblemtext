@@ -1,0 +1,25 @@
+HP = health
+POWER = damage
+DEFENSE = ability to resist damage
+
+WEAPON:
+MT = weapon damage
+HIT = hit rate
+STAMINA/ENERGY/BLOOD cost
+3 stats total
+
+HUMAN:
+[SKILL = hit rate and ability to use special skills]
+[STAMINA = ability to continue combat]
+[MOV = ability to move]
+6 stats total
+
+MAGUS:
+[BLOOD = ability to attack and continue combat, and use special skills]
+[MOV = ability to move]
+5 stats total
+
+ROBOT:
+[SKILL = hit rate and ability to special skills]
+[ENERGY = ability to move and continue combat]
+6 stats total

@@ -1,0 +1,7 @@
+WEAPONZ have THREE stats and SKILLS
+
+MIGHT - the weapon's strength
+ACCURACY - the chance for it to hit
+RANGE - the distance away from the user it can hit
+
+ATTACHED SKILLS may provide buffs or debuffs/conditions upon or to the weapon's use

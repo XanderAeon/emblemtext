@@ -1,0 +1,85 @@
+THROW
+monochrome command skill
+grants access to "pick up" and "throw"
+
+pick up
+always usable
+this unit picks up an adjacent allied unit, and equips them as a weapon.
+all other turn-ending commands are disabled while another unit is picked up, and the command must be retracted or followed by throw for the game to progress.
+no turn use
+
+throw
+usable when a unit is picked up
+target a walkable tile at two range and throw picked up unit to it. if an enemy is on that tile, perform an attack and bounce the thrown unit back if they do not land on an empty tile
+full turn use
+
+
+BLITZ
+coloured command skill
+grants access to "blitz";
+this unit targets and attacks two units at once. they both counterattack
+full turn use
+
+
+BREAK
+coloured offensive skill
+skill% chance when enemy starts a flurry
+take zero damage from the current flurry, and respond with a single attack with triple power.
+
+
+COUNTER
+monochrome passive skill
+return damage from the first attack in any combat
+
+
+VANTAGE
+monochrome passive skill
+its vantage(+)
+
+
+PERIL
+monochrome passive skill
+extra attack when at less than half hp
+
+
+GHOST
+coloured passive skill
+capable of standing in the same tile as other units.
+
+
+LINK
+coloured command skill
+grants access to "link";
+link an adjacent unit. linked units share damage taken and healed. any amount of targets can be linked at once.
+lock movement and all other commands on use
+
+
++1
+monochrome passive skill
+flurries include one more attack
+
+
+BLEED
+coloured passive skill
+after attacking a unit, for the rest of combat, that unit takes damage when attacking.
+
+
+COMPOUND
+monochrome passive skill
+within a flurry, increase damage by one after each attack.
+
+
+FIBBONACCI
+coloured passive skill
+damage is equal to the first step in the fibbonacci sequence. increase step by one each attack, and reset after combat.
+
+
+WEASEL
+monochrome offensive skill
+skill% chance after enemy's attack
+end combat if the damage you've taken is greater than the damage you've dealt.
+
+
+STICKY BOMB
+monochrome offensive skill
+skill% chance to attach a sticky bomb when hitting. sticky bombs explode when combat ends, dealing the amount of damage dealt when attaching them.

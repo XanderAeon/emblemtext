@@ -1,0 +1,24 @@
+enum PASSABLE {
+	ALLIES
+	ENEMIES
+	GROUND
+	FLYING
+	STANDABLE
+}
+rock is
+00100
+ally is
+10110
+air is
+11011
+
+function stat() constructor {
+	name:
+	description:
+	
+}
+
+function statval(stat_, value_, maximum_) constructor {
+	...
+	modifier: 0, //ITS AN ONSTATS THING
+}

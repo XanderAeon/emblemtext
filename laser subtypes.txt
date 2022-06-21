@@ -1,0 +1,13 @@
+LASERZ -
+
+DART:
+lasers that are HITSCANS
+like the TAU CANNON, LASER GUNS, and TECH 2
+
+BEAM:
+lasers that are PROJECTILES
+like MONOCHROME RAY, the PLASMA CANNON, and the SPUR
+
+WAVE:
+lasers that are IMPERCEPTIBLE
+like X-RAYS, HEAT WAVES, and RADIATION

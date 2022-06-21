@@ -1,0 +1,22 @@
+MAGI have elements
+
+once per battle, magi can spend BLOOD to gain an ELEMENT
+ELEMENTS are weak by themselves, but can be COMBINED and SEPERATED to create SPELLZ
+COMBINATION and SEPERATION can be performed once per turn
+basically: LITLE ALCHEMY the UNIT TYPE
+
+the pool of ELEMENTS you acquire from depends on class
+you can turn any SPELL into a tradable and exhaustible weapon by FINALIZING it, removing its ability to COMBINE or SEPERATE. if you give it a VESSEL of a nonmagic weapon, it can be used by HUMANS
+
+the inventory of magi is uncapped, but most magic hurts to carry. the more magic you have, the more you hurt at the start of every turn
+
+magi can battle as long as they have BLOOD. blood is gained when taking any type of damage. it starts at zero. blood is used when attacking, and can also be spent before player-initiated combat to increase offensive skill rates. the average blood cap is much higher than the average stamina cap
+
+
+default commands:
+enchant:
+finalize an element by combining it with a weapon
+
+extract
+
+synthesize

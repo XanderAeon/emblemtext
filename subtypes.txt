@@ -1,0 +1,49 @@
+WEAPONS HAVE SUBTYPES
+SOME CLASSES CAN USE DIFFERENT WEAPON SUBTYPES
+
+BLADEZ -
+
+LIGHT:
+melee weapons that are TINY
+like SWORDZ, KNIVEZ, and HATCHETZ
+
+HEAVY:
+melee weapons that are BIG
+like POLEARMZ and BATTLEAXEZ
+
+SPECIAL:
+bladed weapons that can be THROWN or SHOT
+like CHAKRAMZ, BOWZ, and BOOMERANGS
+
+
+GUNZ - 
+
+LIGHT:
+firearms that can be used with ONE HAND
+like REVOLVERZ, PISTOLZ and SMGZ
+
+HEAVY:
+firearms that are BIG and you gotta use the STOCK
+like SHOTGUNZ and SNIPER RIFLEZ
+
+SPECIAL:
+WEIRD and UNUSUAL firearms
+like THE RAILGUN and CANNONZ
+
+SPELLZ -
+
+
+
+LAZERS -
+
+
+
+
+there are also SPECIAL WEAPON TYPES
+such as -
+
+HANDZ -
+for practitioners of KARATE
+they do not wear
+
+BOMBZ -

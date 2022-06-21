@@ -1,0 +1,16 @@
+humans have weapons
+
+humans can battle in-range as long as they have stamina. out of range, they will only perform one volley. stamina is fully recovered on player phase
+
+default commands:
+depending on their personality, HUMANS have one of a few commands:
+high-five:
+empowered. +10 skill, restore 3 stamina. 1 rng. ends turn.
+
+hug:
+happy. +20 hit, restore 3 stamina. 1 rng. ends turn.
+
+shake hands:
+professional. +3 power, restore 3 stamina. 1 rng. ends turn.
+
+they stack between eachother, but not upon themselves.

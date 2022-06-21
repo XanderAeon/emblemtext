@@ -1,0 +1,4 @@
+units on the same team will not attack eachother if they are attacked
+there is no such thing as healing, only negative attack
+THUS: ANYTHING has the CAPABILITY to heal or hurt ANY unit
+and ITEMS are just ZERO RANGE weapons

@@ -1,0 +1,25 @@
+robots have modules and memory
+memory stores your infinitely-reproducable inventory
+modules are hardware slots and can carry GUNZ or extra memory or other things that would require hardware
+LAZERZ do not require modules
+
+ENERGY is what determines robots' movement and battle continuation ability
+one energy is spent per tile moved and attack performed. half of energy is restored upon turn start. the average energy cap is much higher than the average stamina cap. it starts at half
+
+MODULES ARE CLASS-BASED
+PROGRAMZ CAN PROVIDE BUFFS
+YOU CAN COPY OR DELETE ONE THING PER TURN
+
+gun modules can carry one gun of any type that you have the dependencies for
+select modules when attacking
+
+inventory is only limited by the amount of memory you have
+duplicate PROGRAMZ stack
+
+WAVES are capable of BUFFING and other noncombat effects
+
+default commands:
+copy:
+duplicate a program in your inventory if you have enough memory. seal copy and delete for rest of turn
+delete:
+delete a program in your inventory and regain its memory. seal copy and delete for rest of turn

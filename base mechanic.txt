@@ -1,0 +1,15 @@
+movement:
+select any allied unit to move it. until a unit has used a move that stops them or the turn is ended, units can be moved freely. while a unit is selected for movement, 
+
+commands:
+attack:
+available when any usable weapon is equipped, and in range of any unit. initiates combat with a selected unit. end turn.
+
+trade:
+available when any tradable item is in inventory, and in range of any allied unit. exchange any amount of tradable items with a selected unit. lock trade for rest of turn.
+
+gather:
+available when four or more units are continguous. combines all units into one tile, creating something that can be moved as if it was one unit, with the mov and def of the lowest included unit. prevent all actions other than gather until split is used. end turn.
+
+split:
+available on gathered units, and when there is space to use it. seperate a gathered unit into its component units by scattering them in a clump. end all associated units' turns.

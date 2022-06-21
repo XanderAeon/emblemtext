@@ -1,0 +1,2 @@
+when someone DIES or a weapon BREAKS: gain RESOURCES
+wandering traders will trade RESOURCES for weapons and random stuff
